@@ -26,7 +26,7 @@ omikuji.pyにより7を入力し生成された乱数との差分により表示
 
 
 ## 動画
-
+https://www.youtube.com/watch?v=tqlqrjIcRkE
 
 
 ## ROSのインストールの際参考にしたもの
