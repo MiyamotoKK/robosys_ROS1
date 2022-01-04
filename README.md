@@ -16,7 +16,9 @@ omikuji.pyにより7を入力し生成された乱数との差分により表示
 
 ## 使用方法
 1.ubuntu20.04にROS Noetic のインストール、セットアップ。  
+
 2.ワークスペースの作成、このリポジトリのclone  
+
 3.端末1で roscore  
    端末2で rosrun mypkg count.py   
    端末3で rosrun mypkg omikuji.py   
